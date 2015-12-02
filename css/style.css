@@ -1,0 +1,54 @@
+body {
+  border: red dashed 1px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.margin-top-20px {
+  margin-top: 20px;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.invert:hover{
+  background: #666666;
+  color: #ffffff;
+}
+
+.default-font {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+}
+
+.featured-font {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 200;
+}
+
+.header-font {
+  font-family: fantasy;
+}
+
+.back {
+  font-family:fantasy;
+}
+
+.back:hover {
+  background: #666666;
+  color: #ffffff;
+  border: 2px solid #666666;
+}
+
+.light-font {
+  color: #aaaaaa;
+}
+
+#appify2, #sunflower2, #bokeh2 {
+  display: none;
+}
